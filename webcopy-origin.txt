@@ -1,0 +1,584 @@
+Uri: http://test789.ru/
+File Name: C:\Downloaded Web Sites\test789.ru\index.htm
+Content Type: text/html
+
+Uri: http://test789.ru/about.php
+File Name: C:\Downloaded Web Sites\test789.ru\about.html
+Content Type: text/html
+
+Uri: http://test789.ru/achinsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\achinsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/adler.php
+File Name: C:\Downloaded Web Sites\test789.ru\adler.html
+Content Type: text/html
+
+Uri: http://test789.ru/almetyevsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\almetyevsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/anapa.php
+File Name: C:\Downloaded Web Sites\test789.ru\anapa.html
+Content Type: text/html
+
+Uri: http://test789.ru/astrakhan.php
+File Name: C:\Downloaded Web Sites\test789.ru\astrakhan.html
+Content Type: text/html
+
+Uri: http://test789.ru/balakovo.php
+File Name: C:\Downloaded Web Sites\test789.ru\balakovo.html
+Content Type: text/html
+
+Uri: http://test789.ru/balashikha.php
+File Name: C:\Downloaded Web Sites\test789.ru\balashikha.html
+Content Type: text/html
+
+Uri: http://test789.ru/barnaul.php
+File Name: C:\Downloaded Web Sites\test789.ru\barnaul.html
+Content Type: text/html
+
+Uri: http://test789.ru/beloyarsky.php
+File Name: C:\Downloaded Web Sites\test789.ru\beloyarsky.html
+Content Type: text/html
+
+Uri: http://test789.ru/berezniki.php
+File Name: C:\Downloaded Web Sites\test789.ru\berezniki.html
+Content Type: text/html
+
+Uri: http://test789.ru/blagoveshchensk.php
+File Name: C:\Downloaded Web Sites\test789.ru\blagoveshchensk.html
+Content Type: text/html
+
+Uri: http://test789.ru/butovo.php
+File Name: C:\Downloaded Web Sites\test789.ru\butovo.html
+Content Type: text/html
+
+Uri: http://test789.ru/cheboksary.php
+File Name: C:\Downloaded Web Sites\test789.ru\cheboksary.html
+Content Type: text/html
+
+Uri: http://test789.ru/chelyabinsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\chelyabinsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/chita.php
+File Name: C:\Downloaded Web Sites\test789.ru\chita.html
+Content Type: text/html
+
+Uri: http://test789.ru/chusovoy.php
+File Name: C:\Downloaded Web Sites\test789.ru\chusovoy.html
+Content Type: text/html
+
+Uri: http://test789.ru/contacts.php
+File Name: C:\Downloaded Web Sites\test789.ru\contacts.html
+Content Type: text/html
+
+Uri: http://test789.ru/dedovsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\dedovsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/dimitrovgrad.php
+File Name: C:\Downloaded Web Sites\test789.ru\dimitrovgrad.html
+Content Type: text/html
+
+Uri: http://test789.ru/dolgoprudny.php
+File Name: C:\Downloaded Web Sites\test789.ru\dolgoprudny.html
+Content Type: text/html
+
+Uri: http://test789.ru/domodedovo.php
+File Name: C:\Downloaded Web Sites\test789.ru\domodedovo.html
+Content Type: text/html
+
+Uri: http://test789.ru/dzerzhinsky.php
+File Name: C:\Downloaded Web Sites\test789.ru\dzerzhinsky.html
+Content Type: text/html
+
+Uri: http://test789.ru/ekaterinburg.php
+File Name: C:\Downloaded Web Sites\test789.ru\ekaterinburg.html
+Content Type: text/html
+
+Uri: http://test789.ru/elektrostal.php
+File Name: C:\Downloaded Web Sites\test789.ru\elektrostal.html
+Content Type: text/html
+
+Uri: http://test789.ru/engels.php
+File Name: C:\Downloaded Web Sites\test789.ru\engels.html
+Content Type: text/html
+
+Uri: http://test789.ru/gatcina.php
+File Name: C:\Downloaded Web Sites\test789.ru\gatcina.html
+Content Type: text/html
+
+Uri: http://test789.ru/goroda.php
+File Name: C:\Downloaded Web Sites\test789.ru\goroda.html
+Content Type: text/html
+
+Uri: http://test789.ru/gubkinsky.php
+File Name: C:\Downloaded Web Sites\test789.ru\gubkinsky.html
+Content Type: text/html
+
+Uri: http://test789.ru/habarovsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\habarovsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/hanty-mansiysk.php
+File Name: C:\Downloaded Web Sites\test789.ru\hanty-mansiysk.html
+Content Type: text/html
+
+Uri: http://test789.ru/himki.php
+File Name: C:\Downloaded Web Sites\test789.ru\himki.html
+Content Type: text/html
+
+Uri: http://test789.ru/irkutsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\irkutsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/ishim.php
+File Name: C:\Downloaded Web Sites\test789.ru\ishim.html
+Content Type: text/html
+
+Uri: http://test789.ru/istra.php
+File Name: C:\Downloaded Web Sites\test789.ru\istra.html
+Content Type: text/html
+
+Uri: http://test789.ru/ivanovo.php
+File Name: C:\Downloaded Web Sites\test789.ru\ivanovo.html
+Content Type: text/html
+
+Uri: http://test789.ru/ivanteevka.php
+File Name: C:\Downloaded Web Sites\test789.ru\ivanteevka.html
+Content Type: text/html
+
+Uri: http://test789.ru/kaliningrad.php
+File Name: C:\Downloaded Web Sites\test789.ru\kaliningrad.html
+Content Type: text/html
+
+Uri: http://test789.ru/kamen-uralsky.php
+File Name: C:\Downloaded Web Sites\test789.ru\kamen-uralsky.html
+Content Type: text/html
+
+Uri: http://test789.ru/kazan.php
+File Name: C:\Downloaded Web Sites\test789.ru\kazan.html
+Content Type: text/html
+
+Uri: http://test789.ru/kemerovo.php
+File Name: C:\Downloaded Web Sites\test789.ru\kemerovo.html
+Content Type: text/html
+
+Uri: http://test789.ru/kogalym.php
+File Name: C:\Downloaded Web Sites\test789.ru\kogalym.html
+Content Type: text/html
+
+Uri: http://test789.ru/komsomolsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\komsomolsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/kondopoga.php
+File Name: C:\Downloaded Web Sites\test789.ru\kondopoga.html
+Content Type: text/html
+
+Uri: http://test789.ru/korolev.php
+File Name: C:\Downloaded Web Sites\test789.ru\korolev.html
+Content Type: text/html
+
+Uri: http://test789.ru/kotelniki.php
+File Name: C:\Downloaded Web Sites\test789.ru\kotelniki.html
+Content Type: text/html
+
+Uri: http://test789.ru/krasnodar.php
+File Name: C:\Downloaded Web Sites\test789.ru\krasnodar.html
+Content Type: text/html
+
+Uri: http://test789.ru/krasnogorsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\krasnogorsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/krasnoyarsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\krasnoyarsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/labytangi.php
+File Name: C:\Downloaded Web Sites\test789.ru\labytangi.html
+Content Type: text/html
+
+Uri: http://test789.ru/langepas.php
+File Name: C:\Downloaded Web Sites\test789.ru\langepas.html
+Content Type: text/html
+
+Uri: http://test789.ru/lobnya.php
+File Name: C:\Downloaded Web Sites\test789.ru\lobnya.html
+Content Type: text/html
+
+Uri: http://test789.ru/lod-pole.php
+File Name: C:\Downloaded Web Sites\test789.ru\lod-pole.html
+Content Type: text/html
+
+Uri: http://test789.ru/logo.png
+File Name: C:\Downloaded Web Sites\test789.ru\logo.png
+Content Type: image/png
+
+Uri: http://test789.ru/lubercy.php
+File Name: C:\Downloaded Web Sites\test789.ru\lubercy.html
+Content Type: text/html
+
+Uri: http://test789.ru/luga.php
+File Name: C:\Downloaded Web Sites\test789.ru\luga.html
+Content Type: text/html
+
+Uri: http://test789.ru/lytkarino.php
+File Name: C:\Downloaded Web Sites\test789.ru\lytkarino.html
+Content Type: text/html
+
+Uri: http://test789.ru/maikop.php
+File Name: C:\Downloaded Web Sites\test789.ru\maikop.html
+Content Type: text/html
+
+Uri: http://test789.ru/megion.php
+File Name: C:\Downloaded Web Sites\test789.ru\megion.html
+Content Type: text/html
+
+Uri: http://test789.ru/mezhdurechensk.php
+File Name: C:\Downloaded Web Sites\test789.ru\mezhdurechensk.html
+Content Type: text/html
+
+Uri: http://test789.ru/miass.php
+File Name: C:\Downloaded Web Sites\test789.ru\miass.html
+Content Type: text/html
+
+Uri: http://test789.ru/mihailovka.php
+File Name: C:\Downloaded Web Sites\test789.ru\mihailovka.html
+Content Type: text/html
+
+Uri: http://test789.ru/mirny.php
+File Name: C:\Downloaded Web Sites\test789.ru\mirny.html
+Content Type: text/html
+
+Uri: http://test789.ru/mitino.php
+File Name: C:\Downloaded Web Sites\test789.ru\mitino.html
+Content Type: text/html
+
+Uri: http://test789.ru/moskovsky.php
+File Name: C:\Downloaded Web Sites\test789.ru\moskovsky.html
+Content Type: text/html
+
+Uri: http://test789.ru/moskva.php
+File Name: C:\Downloaded Web Sites\test789.ru\moskva.html
+Content Type: text/html
+
+Uri: http://test789.ru/mytishchi.php
+File Name: C:\Downloaded Web Sites\test789.ru\mytishchi.html
+Content Type: text/html
+
+Uri: http://test789.ru/nadym.php
+File Name: C:\Downloaded Web Sites\test789.ru\nadym.html
+Content Type: text/html
+
+Uri: http://test789.ru/nakhodka.php
+File Name: C:\Downloaded Web Sites\test789.ru\nakhodka.html
+Content Type: text/html
+
+Uri: http://test789.ru/neftekamsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\neftekamsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/nikolskoe.php
+File Name: C:\Downloaded Web Sites\test789.ru\nikolskoe.html
+Content Type: text/html
+
+Uri: http://test789.ru/nizhnekamsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\nizhnekamsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/nizhnevartovsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\nizhnevartovsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/nizhny-novgorod.php
+File Name: C:\Downloaded Web Sites\test789.ru\nizhny-novgorod.html
+Content Type: text/html
+
+Uri: http://test789.ru/noginsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\noginsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/norilsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\norilsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/novokosino.php
+File Name: C:\Downloaded Web Sites\test789.ru\novokosino.html
+Content Type: text/html
+
+Uri: http://test789.ru/novokuznetsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\novokuznetsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/novy-urengoy.php
+File Name: C:\Downloaded Web Sites\test789.ru\novy-urengoy.html
+Content Type: text/html
+
+Uri: http://test789.ru/noyabrsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\noyabrsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/nyagan.php
+File Name: C:\Downloaded Web Sites\test789.ru\nyagan.html
+Content Type: text/html
+
+Uri: http://test789.ru/odintsovo.php
+File Name: C:\Downloaded Web Sites\test789.ru\odintsovo.html
+Content Type: text/html
+
+Uri: http://test789.ru/omsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\omsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/penza.php
+File Name: C:\Downloaded Web Sites\test789.ru\penza.html
+Content Type: text/html
+
+Uri: http://test789.ru/perm.php
+File Name: C:\Downloaded Web Sites\test789.ru\perm.html
+Content Type: text/html
+
+Uri: http://test789.ru/podolsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\podolsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/prokopevsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\prokopevsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/pskov.php
+File Name: C:\Downloaded Web Sites\test789.ru\pskov.html
+Content Type: text/html
+
+Uri: http://test789.ru/pushkin.php
+File Name: C:\Downloaded Web Sites\test789.ru\pushkin.html
+Content Type: text/html
+
+Uri: http://test789.ru/pushkino.php
+File Name: C:\Downloaded Web Sites\test789.ru\pushkino.html
+Content Type: text/html
+
+Uri: http://test789.ru/pytyah.php
+File Name: C:\Downloaded Web Sites\test789.ru\pytyah.html
+Content Type: text/html
+
+Uri: http://test789.ru/raduzhny.php
+File Name: C:\Downloaded Web Sites\test789.ru\raduzhny.html
+Content Type: text/html
+
+Uri: http://test789.ru/ramenskoe.php
+File Name: C:\Downloaded Web Sites\test789.ru\ramenskoe.html
+Content Type: text/html
+
+Uri: http://test789.ru/reutov.php
+File Name: C:\Downloaded Web Sites\test789.ru\reutov.html
+Content Type: text/html
+
+Uri: http://test789.ru/rostov.php
+File Name: C:\Downloaded Web Sites\test789.ru\rostov.html
+Content Type: text/html
+
+Uri: http://test789.ru/salehard.php
+File Name: C:\Downloaded Web Sites\test789.ru\salehard.html
+Content Type: text/html
+
+Uri: http://test789.ru/samara.php
+File Name: C:\Downloaded Web Sites\test789.ru\samara.html
+Content Type: text/html
+
+Uri: http://test789.ru/saransk.php
+File Name: C:\Downloaded Web Sites\test789.ru\saransk.html
+Content Type: text/html
+
+Uri: http://test789.ru/saratov.php
+File Name: C:\Downloaded Web Sites\test789.ru\saratov.html
+Content Type: text/html
+
+Uri: http://test789.ru/scripts.js
+File Name: C:\Downloaded Web Sites\test789.ru\scripts.js
+Content Type: application/javascript
+
+Uri: http://test789.ru/serov.php
+File Name: C:\Downloaded Web Sites\test789.ru\serov.html
+Content Type: text/html
+
+Uri: http://test789.ru/seversk.php
+File Name: C:\Downloaded Web Sites\test789.ru\seversk.html
+Content Type: text/html
+
+Uri: http://test789.ru/shelkovo.php
+File Name: C:\Downloaded Web Sites\test789.ru\shelkovo.html
+Content Type: text/html
+
+Uri: http://test789.ru/sherbinka.php
+File Name: C:\Downloaded Web Sites\test789.ru\sherbinka.html
+Content Type: text/html
+
+Uri: http://test789.ru/sochi.php
+File Name: C:\Downloaded Web Sites\test789.ru\sochi.html
+Content Type: text/html
+
+Uri: http://test789.ru/solikamsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\solikamsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/sosnovy-bor.php
+File Name: C:\Downloaded Web Sites\test789.ru\sosnovy-bor.html
+Content Type: text/html
+
+Uri: http://test789.ru/sovhoz-lenina.php
+File Name: C:\Downloaded Web Sites\test789.ru\sovhoz-lenina.html
+Content Type: text/html
+
+Uri: http://test789.ru/spb.php
+File Name: C:\Downloaded Web Sites\test789.ru\spb.html
+Content Type: text/html
+
+Uri: http://test789.ru/strezhovoy.php
+File Name: C:\Downloaded Web Sites\test789.ru\strezhovoy.html
+Content Type: text/html
+
+Uri: http://test789.ru/styles.css
+File Name: C:\Downloaded Web Sites\test789.ru\styles.css
+Content Type: text/css
+
+Uri: http://test789.ru/surgut.php
+File Name: C:\Downloaded Web Sites\test789.ru\surgut.html
+Content Type: text/html
+
+Uri: http://test789.ru/syktyvkar.php
+File Name: C:\Downloaded Web Sites\test789.ru\syktyvkar.html
+Content Type: text/html
+
+Uri: http://test789.ru/taganrog.php
+File Name: C:\Downloaded Web Sites\test789.ru\taganrog.html
+Content Type: text/html
+
+Uri: http://test789.ru/tobolsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\tobolsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/tomsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\tomsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/tosno.php
+File Name: C:\Downloaded Web Sites\test789.ru\tosno.html
+Content Type: text/html
+
+Uri: http://test789.ru/trosk.php
+File Name: C:\Downloaded Web Sites\test789.ru\trosk.html
+Content Type: text/html
+
+Uri: http://test789.ru/tula.php
+File Name: C:\Downloaded Web Sites\test789.ru\tula.html
+Content Type: text/html
+
+Uri: http://test789.ru/tyumen.php
+File Name: C:\Downloaded Web Sites\test789.ru\tyumen.html
+Content Type: text/html
+
+Uri: http://test789.ru/ufa.php
+File Name: C:\Downloaded Web Sites\test789.ru\ufa.html
+Content Type: text/html
+
+Uri: http://test789.ru/uhta.php
+File Name: C:\Downloaded Web Sites\test789.ru\uhta.html
+Content Type: text/html
+
+Uri: http://test789.ru/ulyanovsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\ulyanovsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/uray.php
+File Name: C:\Downloaded Web Sites\test789.ru\uray.html
+Content Type: text/html
+
+Uri: http://test789.ru/usinsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\usinsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/ussuriysk.php
+File Name: C:\Downloaded Web Sites\test789.ru\ussuriysk.html
+Content Type: text/html
+
+Uri: http://test789.ru/veliky-novgorod.php
+File Name: C:\Downloaded Web Sites\test789.ru\veliky-novgorod.html
+Content Type: text/html
+
+Uri: http://test789.ru/vladivostok.php
+File Name: C:\Downloaded Web Sites\test789.ru\vladivostok.html
+Content Type: text/html
+
+Uri: http://test789.ru/volgograd.php
+File Name: C:\Downloaded Web Sites\test789.ru\volgograd.html
+Content Type: text/html
+
+Uri: http://test789.ru/volkhov.php
+File Name: C:\Downloaded Web Sites\test789.ru\volkhov.html
+Content Type: text/html
+
+Uri: http://test789.ru/volodarsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\volodarsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/volsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\volsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/volzhsky.php
+File Name: C:\Downloaded Web Sites\test789.ru\volzhsky.html
+Content Type: text/html
+
+Uri: http://test789.ru/voronezh.php
+File Name: C:\Downloaded Web Sites\test789.ru\voronezh.html
+Content Type: text/html
+
+Uri: http://test789.ru/vsevolozhsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\vsevolozhsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/yakutsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\yakutsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/yalutorovsk.php
+File Name: C:\Downloaded Web Sites\test789.ru\yalutorovsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/yaroslavl.php
+File Name: C:\Downloaded Web Sites\test789.ru\yaroslavl.html
+Content Type: text/html
+
+Uri: http://test789.ru/zelenograd.php
+File Name: C:\Downloaded Web Sites\test789.ru\zelenograd.html
+Content Type: text/html
+
+Uri: http://test789.ru/zvenigorod.php
+File Name: C:\Downloaded Web Sites\test789.ru\zvenigorod.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap
+File Name: C:\Downloaded Web Sites\test789.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\test789.ru\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/100462539
+File Name: C:\Downloaded Web Sites\test789.ru\watch\100462539
+Content Type: image/gif
+
+Uri: https://www.transparenttextures.com/patterns/asfalt-light.png
+File Name: C:\Downloaded Web Sites\test789.ru\patterns\asfalt-light.png
+Content Type: image/png
+
+Uri: https://www.transparenttextures.com/patterns/cubes.png
+File Name: C:\Downloaded Web Sites\test789.ru\patterns\cubes.png
+Content Type: image/png
+
