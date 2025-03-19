@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+﻿@import url('css2');
 
 
 /* ======== Общие стили ======== */
 body {
     font-family: Arial, sans-serif; /* Шрифт сайта */
-    background: #f5f5f5 url("https://www.transparenttextures.com/patterns/cubes.png"); /* Текстура */
+    background: #f5f5f5 url("patterns/cubes.png"); /* Текстура */
     color: #333; /* Основной цвет текста */
     margin: 0;
     padding: 0;
@@ -21,7 +21,7 @@ body {
     justify-content: flex-start;
     align-items: center;
     background: #ffcc00; /* Основной жёлтый цвет */
-    background-image: url('https://www.transparenttextures.com/patterns/asfalt-light.png'); /* Текстура */
+    background-image: url('patterns/asfalt-light.png'); /* Текстура */
     background-size: auto;
     background-repeat: repeat;
     padding: 10px 20px; /* Уменьшаем отступы */
