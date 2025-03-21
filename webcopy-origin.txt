@@ -82,6 +82,10 @@ Uri: http://test789.ru/dimitrovgrad.php
 File Name: C:\Downloaded Web Sites\test789.ru\dimitrovgrad.html
 Content Type: text/html
 
+Uri: http://test789.ru/dmitrovsky-go.php
+File Name: C:\Downloaded Web Sites\test789.ru\dmitrovsky-go.html
+Content Type: text/html
+
 Uri: http://test789.ru/dolgoprudny.php
 File Name: C:\Downloaded Web Sites\test789.ru\dolgoprudny.html
 Content Type: text/html
@@ -104,6 +108,10 @@ Content Type: text/html
 
 Uri: http://test789.ru/engels.php
 File Name: C:\Downloaded Web Sites\test789.ru\engels.html
+Content Type: text/html
+
+Uri: http://test789.ru/friazino.php
+File Name: C:\Downloaded Web Sites\test789.ru\friazino.html
 Content Type: text/html
 
 Uri: http://test789.ru/gatcina.php
@@ -278,6 +286,10 @@ Uri: http://test789.ru/nakhodka.php
 File Name: C:\Downloaded Web Sites\test789.ru\nakhodka.html
 Content Type: text/html
 
+Uri: http://test789.ru/naro-fominsky-go.php
+File Name: C:\Downloaded Web Sites\test789.ru\naro-fominsky-go.html
+Content Type: text/html
+
 Uri: http://test789.ru/neftekamsk.php
 File Name: C:\Downloaded Web Sites\test789.ru\neftekamsk.html
 Content Type: text/html
@@ -344,6 +356,10 @@ Content Type: text/html
 
 Uri: http://test789.ru/podolsk.php
 File Name: C:\Downloaded Web Sites\test789.ru\podolsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/privacy.php
+File Name: C:\Downloaded Web Sites\test789.ru\privacy.html
 Content Type: text/html
 
 Uri: http://test789.ru/prokopevsk.php
@@ -424,6 +440,10 @@ Content Type: text/html
 
 Uri: http://test789.ru/solikamsk.php
 File Name: C:\Downloaded Web Sites\test789.ru\solikamsk.html
+Content Type: text/html
+
+Uri: http://test789.ru/solnechnogorsky-go.php
+File Name: C:\Downloaded Web Sites\test789.ru\solnechnogorsky-go.html
 Content Type: text/html
 
 Uri: http://test789.ru/sosnovy-bor.php
@@ -556,6 +576,14 @@ Content Type: text/html
 
 Uri: http://test789.ru/zelenograd.php
 File Name: C:\Downloaded Web Sites\test789.ru\zelenograd.html
+Content Type: text/html
+
+Uri: http://test789.ru/zheleznodorozhny.php
+File Name: C:\Downloaded Web Sites\test789.ru\zheleznodorozhny.html
+Content Type: text/html
+
+Uri: http://test789.ru/zhukovsky.php
+File Name: C:\Downloaded Web Sites\test789.ru\zhukovsky.html
 Content Type: text/html
 
 Uri: http://test789.ru/zvenigorod.php

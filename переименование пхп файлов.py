@@ -6,9 +6,9 @@ current_directory = os.path.dirname(os.path.abspath(__file__))
 # Перебираем все файлы в текущей директории
 for filename in os.listdir(current_directory):
     # Проверяем, содержит ли имя файла нужный фрагмент
-    if ".php.html" in filename:
+    if ".html" in filename:
         # Создаём новое имя, заменяя фрагмент
-        new_filename = filename.replace(".php.html", ".html")
+        new_filename = filename.replace(".html", ".html")
         
         # Формируем полные пути
         old_path = os.path.join(current_directory, filename)

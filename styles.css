@@ -1496,6 +1496,20 @@ h1 {
 
 .footer-nav a:hover {
     color: #ff6600; /* Оранжевый при наведении */
+
+}
+
+/* Ссылка "Политика конфиденциальности" */
+.footer p a {
+    color: #000;
+    font-weight: bold;
+    text-decoration: none !important;
+    transition: color 0.3s;
+}
+
+.footer p a:hover {
+    text-decoration: underline;
+    color: #cc4400;
 }
 
 /* Адаптация для мобильных */
@@ -1506,6 +1520,10 @@ h1 {
         gap: 5px;
     }
 }
+
+    .footer p {
+        font-size: 12px;
+    }
 
 /* ======== Блок "Популярные города" ======== */
 .popular-cities {
